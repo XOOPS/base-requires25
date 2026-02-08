@@ -5,3 +5,13 @@
 .idea/
 vendor/
 composer.lock
+
+# Build artifacts
+build/
+coverage.clover
+callmap.json
+
+# Claude local files
+CLAUDE.md
+.claude/
+docs/tasks.md
